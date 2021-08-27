@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/encore-monitoring/static/css/main.5124f8cb.chunk.css",
-    "main.js": "/encore-monitoring/static/js/main.dfc04409.chunk.js",
-    "main.js.map": "/encore-monitoring/static/js/main.dfc04409.chunk.js.map",
-    "runtime-main.js": "/encore-monitoring/static/js/runtime-main.2c90e887.js",
-    "runtime-main.js.map": "/encore-monitoring/static/js/runtime-main.2c90e887.js.map",
+    "main.css": "/encore-monitoring/static/css/main.8dab0369.chunk.css",
+    "main.js": "/encore-monitoring/static/js/main.5020e5ed.chunk.js",
+    "main.js.map": "/encore-monitoring/static/js/main.5020e5ed.chunk.js.map",
+    "runtime-main.js": "/encore-monitoring/static/js/runtime-main.e3aa3c90.js",
+    "runtime-main.js.map": "/encore-monitoring/static/js/runtime-main.e3aa3c90.js.map",
     "static/css/2.818011ed.chunk.css": "/encore-monitoring/static/css/2.818011ed.chunk.css",
-    "static/js/2.188b9e58.chunk.js": "/encore-monitoring/static/js/2.188b9e58.chunk.js",
-    "static/js/2.188b9e58.chunk.js.map": "/encore-monitoring/static/js/2.188b9e58.chunk.js.map",
-    "static/js/3.9d668b25.chunk.js": "/encore-monitoring/static/js/3.9d668b25.chunk.js",
-    "static/js/3.9d668b25.chunk.js.map": "/encore-monitoring/static/js/3.9d668b25.chunk.js.map",
+    "static/js/2.1c5c1078.chunk.js": "/encore-monitoring/static/js/2.1c5c1078.chunk.js",
+    "static/js/2.1c5c1078.chunk.js.map": "/encore-monitoring/static/js/2.1c5c1078.chunk.js.map",
+    "static/js/3.9f139809.chunk.js": "/encore-monitoring/static/js/3.9f139809.chunk.js",
+    "static/js/3.9f139809.chunk.js.map": "/encore-monitoring/static/js/3.9f139809.chunk.js.map",
     "index.html": "/encore-monitoring/index.html",
     "static/css/2.818011ed.chunk.css.map": "/encore-monitoring/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.5124f8cb.chunk.css.map": "/encore-monitoring/static/css/main.5124f8cb.chunk.css.map",
-    "static/js/2.188b9e58.chunk.js.LICENSE.txt": "/encore-monitoring/static/js/2.188b9e58.chunk.js.LICENSE.txt",
+    "static/css/main.8dab0369.chunk.css.map": "/encore-monitoring/static/css/main.8dab0369.chunk.css.map",
+    "static/js/2.1c5c1078.chunk.js.LICENSE.txt": "/encore-monitoring/static/js/2.1c5c1078.chunk.js.LICENSE.txt",
     "static/media/AppFont.css": "/encore-monitoring/static/media/SF-Pro-Text-Thin.e152bbce.otf",
     "static/media/profile.6483b06d.png": "/encore-monitoring/static/media/profile.6483b06d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c90e887.js",
+    "static/js/runtime-main.e3aa3c90.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.188b9e58.chunk.js",
-    "static/css/main.5124f8cb.chunk.css",
-    "static/js/main.dfc04409.chunk.js"
+    "static/js/2.1c5c1078.chunk.js",
+    "static/css/main.8dab0369.chunk.css",
+    "static/js/main.5020e5ed.chunk.js"
   ]
 }
